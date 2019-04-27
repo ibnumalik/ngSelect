@@ -1,1 +1,1 @@
-import 'ngSelect.min.js';
+require('ngSelect.min.js');
