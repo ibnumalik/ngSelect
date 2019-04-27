@@ -1,0 +1,1 @@
+import 'ngSelect.min.js';
