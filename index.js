@@ -1,3 +1,3 @@
-import 'ngSelect.min.js';
+import './ngSelect.js';
 
 export default "ngSelect";
