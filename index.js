@@ -1,1 +1,3 @@
-require('ngSelect.min.js');
+import 'ngSelect.min.js';
+
+export default "ngSelect";
